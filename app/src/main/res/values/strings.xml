@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Taller_02</string>
+    <string name="app_name">TALLER 02</string>
+    <string name="src_emprezaXYZ">EMPRESA XYZ</string>
+    <string name="str_material">MATERIAL</string>
+    <string name="str_dije">DIJE</string>
+    <string name="str_tipo">TIPO</string>
+    <string name="str_cantidad">CANTIDAD</string>
+    <string name="str_tipoCambio">TIPO DE CAMBIO</string>
+    <string name="str_pesos">PESOS</string>
+    <string name="str_dolares">DOLARES</string>
+    <string name="str_comprar">COMPRAR</string>
+    <string name="str_limpiar">LIMPIAR</string>
 </resources>
