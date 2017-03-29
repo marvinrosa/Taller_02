@@ -10,4 +10,12 @@
     <string name="str_dolares">DOLARES</string>
     <string name="str_comprar">COMPRAR</string>
     <string name="str_limpiar">LIMPIAR</string>
+    <string name="str_ancla">Ancla</string>
+    <string name="str_cuerda">Cuerda</string>
+    <string name="str_cuero">Cuero</string>
+    <string name="str_martillo">Martillo</string>
+    <string name="str_niquel">Niquel</string>
+    <string name="str_oro">Oro</string>
+    <string name="str_plata">Plata</string>
+    <string name="str_rosado">Rosado</string>
 </resources>
