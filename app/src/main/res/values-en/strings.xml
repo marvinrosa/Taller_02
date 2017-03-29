@@ -11,33 +11,14 @@
     <string name="str_pesos">PESOS</string>
     <string name="str_tipo">TYPE</string>
     <string name="str_tipoCambio">TYPE OF CHANGE</string>
-
-    // ComboBOX Material
-    <string name="str_cuero">Leather</string>
-    <string name="str_cuerda">Rope</string>
-    <string-array name="str_material">
-        <item>@string/str_cuero</item>
-        <item>@string/str_cuerda</item>
-    </string-array>
-
-    // ComboBOX Dije
-
     <string name="str_ancla">Anchor</string>
+    <string name="str_cuerda">Rope</string>
+    <string name="str_cuero">Leather</string>
     <string name="str_martillo">Hammer</string>
-    <string-array name="str_dije">
-        <item>@string/str_ancla</item>
-        <item>@string/str_martillo</item>
-    </string-array>
-
-    // ComboBOX Tipo
-    <string name="str_oro">Gold</string>
-    <string name="str_rosado">Pink</string>
-    <string name="str_plata">Silver</string>
     <string name="str_niquel">Nickel</string>
-    <string-array name="str_tipo">
-        <item>@string/str_oro</item>
-        <item>@string/str_rosado</item>
-        <item>@string/str_plata</item>
-        <item>@string/str_niquel</item>
-    </string-array>
+    <string name="str_oro">Gold</string>
+    <string name="str_plata">Silver</string>
+    <string name="str_rosado">Pink</string>
+    <string name="str_total">TOTAL</string>
+
 </resources>
